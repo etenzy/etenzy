@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 <p align="center">
 	<a href="https://github.com/etenzy"><img src="https://img.shields.io/github/followers/etenzy.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://twitter.com/notetenzy"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/notetenzy?label=Twitter">
-	<a href="https://www.linkedin.com/in/roedelmichael"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.linkedin.com/in/roem"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<!--<a href="https://github.com/sponsors/roedelmichael"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>-->
 </p>
