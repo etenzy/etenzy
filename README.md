@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://streak-stats.demolab.com?user=etenzy&theme=catppuccin-frappe&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=etenzy&count_private=true&layout=compact&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true" alt="GitHub language stats" />
+
 <p align="center">
   <a href="https://github.com/etenzy" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?logo=GitHub&style=for-the-badge&logoColor=white" alt="GitHub"></a>
   <a href="https://etenzy.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
